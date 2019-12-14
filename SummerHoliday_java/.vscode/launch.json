@@ -1,0 +1,1750 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-biggerNum<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assigments2.biggerNum",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dataInput<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assigments2.dataInput",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-https_StatusCode<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assigments2.https_StatusCode",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-largerNum<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assigments2.largerNum",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-positiveOrNegative<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assigments2.positiveOrNegative",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-timeOfDay<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assigments2.timeOfDay",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_1<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_1",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_3<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_3",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_4<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_4",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cities<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.Cities",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CitiesTogether<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.CitiesTogether",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompanyInfo<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.CompanyInfo",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeclareTwoVarianles<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.DeclareTwoVarianles",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GasReciept<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.GasReciept",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Name<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.Name",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintExercise<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.PrintExercise",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhatLearned<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "Assignments.WhatLearned",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShortCuts<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day01_FirstProgramming.ShortCuts",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Comments<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day03_Variables.Comments",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EscapeSequences<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day03_Variables.EscapeSequences",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-primitiveDataTypes<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day03_Variables.primitiveDataTypes",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-println_vs_print<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day03_Variables.println_vs_print",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimitiveDataTypes2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day04_Variabes2.PrimitiveDataTypes2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WarmupTask<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day04_Variabes2.WarmupTask",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Concatenation<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day05_Recap.Concatenation",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArithmaticOperators<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day06_ArithmaticOperators.ArithmaticOperators",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-primitivesCasting<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day06_ArithmaticOperators.primitivesCasting",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UnaryOperations<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day07_Uneray_ShortHand.UnaryOperations",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Galonstoliter<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.Galonstoliter",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-logicalOperators<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.logicalOperators",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-relationalOperators<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.relationalOperators",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shortHandedOperators<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.shortHandedOperators",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-tasks<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.tasks",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ifStatements<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day09_review.ifStatements",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-review<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day09_review.review",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-If_Else_statement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.If_Else_statement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multi_Branch_ifStatement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.Multi_Branch_ifStatement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-singleIfStatement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.singleIfStatement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-without_CurlyBrace<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.without_CurlyBrace",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nested_if<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day11_If_Else_review.Nested_if",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Warmup<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day11_If_Else_review.Warmup",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ifElse_statement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day11_If_Else_review.ifElse_statement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfStatementWithoutCurlybraces<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day12_SwitchStatement.IfStatementWithoutCurlybraces",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchStatement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day12_SwitchStatement.SwitchStatement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-switch_Statement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day13_review.switch_Statement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScannerClass<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day14_Scanner.ScannerClass",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ternary<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day14_Scanner.Ternary",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WarmUp<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day14_Scanner.WarmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScannerClass<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.ScannerClass",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringClass<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.StringClass",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringInput<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.StringInput",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.StringMethods",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-deneme<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.deneme",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.warmup",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nexLine<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day16_warmup.nexLine",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods_2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day17_StringClass.StringMethods_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods_3<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day17_StringClass.StringMethods_3",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day17_StringClass.warmup",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-withoutx_X<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day17_StringClass.withoutx_X",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForLoop<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.ForLoop",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods_3<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.StringMethods_3",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reverse<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.reverse",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-stringMethods_Boolean<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.stringMethods_Boolean",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java_src>(2)",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.warmup",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.warmup2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-star<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day19_forLoop.star",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java_src>(3)",
+            "request": "launch",
+            "mainClass": "day19_forLoop.warmup",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethod<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.StringMethod",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ascii_print<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.ascii_print",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-replaceLast<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.replaceLast",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.warmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2_TenNumSum<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.warmUp_2_TenNumSum",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_3_findmax<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.warmUp_3_findmax",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_4_minNumber<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day20.warmUp_4_minNumber",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-do_while<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.do_while",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practice<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.practice",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.warmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.warmUp_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-whileLoop<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.whileLoop",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedLooopTask<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.NestedLooopTask",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nestedLoop<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.nestedLoop",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java_src>(2)",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.warmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.warmUp_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arrays<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day23_arrays.arrays",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java_src>(3)",
+            "request": "launch",
+            "mainClass": "day23_arrays.warmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2<SummerHoliday_java_src>(2)",
+            "request": "launch",
+            "mainClass": "day23_arrays.warmUp_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arraysClass<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.arraysClass",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-makeArrayLonger<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.makeArrayLonger",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-timer<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.timer",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java_src>(4)",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUp2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_3<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUp_3",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUpdimensional<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUpdimensional",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUplongest<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUplongest",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.StringMethods",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arrayMethods<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.arrayMethods",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dimensionalArray<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.dimensionalArray",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java_src>(5)",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.warmUp",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_1<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.warmUp_1",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-continueStatement<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day26_forEach.continueStatement",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-forEach<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day26_forEach.forEach",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-forEach_multiDimensional<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "day26_forEach.forEach_multiDimensional",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-review<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "day26_forEach.review",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HappyValleySchoolSystem<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.HappyValleySchoolSystem",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MATCHINHBRACETS<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.MATCHINHBRACETS",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bread<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.bread",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-charAt<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.charAt",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-deneme<SummerHoliday_java_src>(1)",
+            "request": "launch",
+            "mainClass": "replit.deneme",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-email_2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.email_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-equalsPythonJava<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.equalsPythonJava",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-findMidNum<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.findMidNum",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-findRoute<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.findRoute",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-indexOfJava<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.indexOfJava",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-middle<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.middle",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nums<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.nums",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-onlineBookMerchant<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.onlineBookMerchant",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-patient_Inform<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.patient_Inform",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-printletters<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.printletters",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-schoolGrades<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.schoolGrades",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shopingList_3<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.shopingList_3",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shoppingList_1<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.shoppingList_1",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shoppingList_2<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.shoppingList_2",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sms_message<SummerHoliday_java_src>",
+            "request": "launch",
+            "mainClass": "replit.sms_message",
+            "projectName": "SummerHoliday_java_src"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-biggerNum<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assigments2.biggerNum",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dataInput<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assigments2.dataInput",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-https_StatusCode<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assigments2.https_StatusCode",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-largerNum<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assigments2.largerNum",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-positiveOrNegative<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assigments2.positiveOrNegative",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-timeOfDay<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assigments2.timeOfDay",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_1<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_1",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_3<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_3",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-task_4<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignment3.task_4",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Cities<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.Cities",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CitiesTogether<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.CitiesTogether",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-CompanyInfo<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.CompanyInfo",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DeclareTwoVarianles<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.DeclareTwoVarianles",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-GasReciept<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.GasReciept",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Name<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.Name",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrintExercise<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.PrintExercise",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WhatLearned<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "Assignments.WhatLearned",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ShortCuts<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day01_FirstProgramming.ShortCuts",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Comments<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day03_Variables.Comments",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-EscapeSequences<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day03_Variables.EscapeSequences",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-primitiveDataTypes<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day03_Variables.primitiveDataTypes",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-println_vs_print<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day03_Variables.println_vs_print",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimitiveDataTypes2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day04_Variabes2.PrimitiveDataTypes2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WarmupTask<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day04_Variabes2.WarmupTask",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Concatenation<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day05_Recap.Concatenation",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ArithmaticOperators<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day06_ArithmaticOperators.ArithmaticOperators",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-primitivesCasting<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day06_ArithmaticOperators.primitivesCasting",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-UnaryOperations<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day07_Uneray_ShortHand.UnaryOperations",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Galonstoliter<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.Galonstoliter",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-logicalOperators<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.logicalOperators",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-relationalOperators<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.relationalOperators",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shortHandedOperators<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.shortHandedOperators",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-tasks<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day08_ShortHandOperators.tasks",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ifStatements<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day09_review.ifStatements",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-review<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day09_review.review",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-If_Else_statement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.If_Else_statement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Multi_Branch_ifStatement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.Multi_Branch_ifStatement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-singleIfStatement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.singleIfStatement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-without_CurlyBrace<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day10_ifStatement.without_CurlyBrace",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Nested_if<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day11_If_Else_review.Nested_if",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Warmup<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day11_If_Else_review.Warmup",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ifElse_statement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day11_If_Else_review.ifElse_statement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-IfStatementWithoutCurlybraces<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day12_SwitchStatement.IfStatementWithoutCurlybraces",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-SwitchStatement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day12_SwitchStatement.SwitchStatement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-switch_Statement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day13_review.switch_Statement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScannerClass<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day14_Scanner.ScannerClass",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Ternary<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day14_Scanner.Ternary",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-WarmUp<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day14_Scanner.WarmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ScannerClass<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.ScannerClass",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringClass<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.StringClass",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringInput<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.StringInput",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.StringMethods",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-deneme<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.deneme",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day15_ScannerClass.warmup",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nexLine<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day16_warmup.nexLine",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods_2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day17_StringClass.StringMethods_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods_3<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day17_StringClass.StringMethods_3",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day17_StringClass.warmup",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-withoutx_X<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day17_StringClass.withoutx_X",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ForLoop<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.ForLoop",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods_3<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.StringMethods_3",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reverse<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.reverse",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-stringMethods_Boolean<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.stringMethods_Boolean",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java>(2)",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.warmup",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day18_stringMethods.warmup2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-star<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day19_forLoop.star",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmup<SummerHoliday_java>(3)",
+            "request": "launch",
+            "mainClass": "day19_forLoop.warmup",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethod<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.StringMethod",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ascii_print<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.ascii_print",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-replaceLast<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.replaceLast",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.warmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2_TenNumSum<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.warmUp_2_TenNumSum",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_3_findmax<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.warmUp_3_findmax",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_4_minNumber<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day20.warmUp_4_minNumber",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-do_while<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.do_while",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-practice<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.practice",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.warmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.warmUp_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-whileLoop<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day21_whileLoop.whileLoop",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NestedLooopTask<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.NestedLooopTask",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nestedLoop<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.nestedLoop",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java>(2)",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.warmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day22_nestedLoop.warmUp_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arrays<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day23_arrays.arrays",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java>(3)",
+            "request": "launch",
+            "mainClass": "day23_arrays.warmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_2<SummerHoliday_java>(2)",
+            "request": "launch",
+            "mainClass": "day23_arrays.warmUp_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arraysClass<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.arraysClass",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-makeArrayLonger<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.makeArrayLonger",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-timer<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.timer",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java>(4)",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUp2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_3<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUp_3",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUpdimensional<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUpdimensional",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUplongest<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day24_warmUpArrays.warmUplongest",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringMethods<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.StringMethods",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-arrayMethods<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.arrayMethods",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-dimensionalArray<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.dimensionalArray",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp<SummerHoliday_java>(5)",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.warmUp",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-warmUp_1<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day25_arrayMethods.warmUp_1",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-continueStatement<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day26_forEach.continueStatement",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-forEach<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day26_forEach.forEach",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-forEach_multiDimensional<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "day26_forEach.forEach_multiDimensional",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-review<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "day26_forEach.review",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HappyValleySchoolSystem<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.HappyValleySchoolSystem",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MATCHINHBRACETS<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.MATCHINHBRACETS",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-bread<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.bread",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-charAt<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.charAt",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-deneme<SummerHoliday_java>(1)",
+            "request": "launch",
+            "mainClass": "replit.deneme",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-email_2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.email_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-equalsPythonJava<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.equalsPythonJava",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-findMidNum<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.findMidNum",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-findRoute<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.findRoute",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-indexOfJava<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.indexOfJava",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-middle<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.middle",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-nums<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.nums",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-onlineBookMerchant<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.onlineBookMerchant",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-patient_Inform<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.patient_Inform",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-printletters<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.printletters",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-schoolGrades<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.schoolGrades",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shopingList_3<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.shopingList_3",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shoppingList_1<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.shoppingList_1",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-shoppingList_2<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.shoppingList_2",
+            "projectName": "SummerHoliday_java"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sms_message<SummerHoliday_java>",
+            "request": "launch",
+            "mainClass": "replit.sms_message",
+            "projectName": "SummerHoliday_java"
+        }
+    ]
+}
