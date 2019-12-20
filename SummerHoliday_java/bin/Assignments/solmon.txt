@@ -1,0 +1,12 @@
+run the oven on 180 celcius
+cut the solmon horizontally
+cut the patoitos horizontally
+put solmon and patoitos in the tray
+open the cower of the oven
+put the tray in the oven
+shut down the cower
+after 45 minutes :
+	open the cower 
+	take the tray
+	close the cover
+
