@@ -26,10 +26,16 @@ public class LambdaExpressions {
 //		foreEach
 
 		List<Integer>list2 = new ArrayList<>(Arrays.asList(1,2,3,4,5,6,7,8,9,10));
+				
+		System.out.println("=====================================");
 		
-		list2.forEach( p-> { if ( p > 5 ) {System.out.println(p);} } );
+		list2.forEach( p-> { if ( p > 5 ) {System.out.print(p);} } );
 		
-		list2.forEach( System.out::println);
+		
+		System.out.println();
+		System.out.println("=====================================");
+		
+		list2.forEach( System.out::print);
 		
 		List<String> names= new ArrayList<String>();
 		names.addAll(Arrays.asList("Ahmet", "serdar", "Ibrohim","madina","keml","mehmet"));
@@ -38,7 +44,8 @@ public class LambdaExpressions {
 		names.removeIf(remvET);
 		System.out.println(names);//	[serdar, Ibrohim, madina, keml]
 
-		List<String>ss = new ArrayList
+		List<String>ss = new ArrayList();
+		ss.forEach(p-> {if(p.startsWith("s")){}}) ;
 				
 				
 		
