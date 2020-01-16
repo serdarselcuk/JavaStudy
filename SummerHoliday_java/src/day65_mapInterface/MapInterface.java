@@ -1,5 +1,6 @@
 package day65_mapInterface;
 
+import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Hashtable;
 import java.util.LinkedHashMap;
@@ -20,6 +21,7 @@ public static void main(String[] args) {
 		map1.put("ismail", 6d);
 		map1.put("elif", 5d);
 		
+		
 		System.out.println(map1);	//{serdar=4.0, ismail=6.0, elif=5.0}
 		//	get(key) = value
 		System.out.println(map1.get("ismail"));// 6.0
@@ -27,8 +29,8 @@ public static void main(String[] args) {
 	
 		// keySet();
 		
-		Set<String> set = map1.keySet();//	[serdar, ismail, elif]
-		System.out.println(set);
+		Set<String> set = map1.keySet();
+		System.out.println(set); //	[serdar, ismail, elif]
 		
 		//	remove(key, value)
 		map1.remove("elif");
@@ -57,7 +59,7 @@ public static void main(String[] args) {
 		
 		System.out.println(map3);//	{A=50, B=10, C=1, D=4}
 		
-//		*** MAP DOES NOT ACCEPT DUPLICATED KEYBUT FOR KEYS IT IS ACCEPTEBLE
+//		*** MAP DOES NOT ACCEPT DUPLICATED KEY, BUT FOR KEYS IT IS ACCEPTABLE
 		
 		Map<Integer, String> map2 = new Hashtable<>();
 		
@@ -73,15 +75,22 @@ public static void main(String[] args) {
 		map4.put("Z", 1000);
 		map4.put("Y", 9000);
 		map4.put("H", 25);
-		System.out.println(map4);
+		System.out.println(map4);//{H=25, Y=9000, Z=1000}
 		
 		
+		int[] arr = {1,3,5,4,2};
 		
-		
-		
-		
-		
-		
-		
+		arr = negativeOne(arr);		
+		Arrays.sort(arr);
+		arr = negativeOne(arr);		
+		System.out.println(Arrays.toString(arr));
+	}
+	public static int[] negativeOne(int[] arr) {
+		int k = 0;
+		for (int i : arr) {
+			arr[k] = i*(-1);
+			k++;
+		}
+		return arr;
 	}
 }

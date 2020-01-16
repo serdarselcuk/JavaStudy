@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 import day50_Abstractio.SouthKorea;
 
@@ -61,11 +62,12 @@ public class ArrayListVsLinkedList {
 		System.out.println(linkedList);		//[serdar, Elif, ahmet, ismail, Ahmet, serdar, Elif, ahmet, ismail, Ahmet]
 		linkedList.set(3,"kemal");
 		System.out.println(linkedList.get(3));//kemal
-		String serdar = "serdar";
-		
-		String sel = "sel";
-		
-		
+//		linkedList.offer("serdar");
+		Queue<String>linkedlistQ=new LinkedList<String>();
+		linkedlistQ.offer("deneme");
+		LinkedList<String>linkedList2=new LinkedList<String>();
+		linkedList2.add("serdar");		// from collections
+		linkedList2.offer("selcuk");	// it is from queue unterface
 	
 	}
 }

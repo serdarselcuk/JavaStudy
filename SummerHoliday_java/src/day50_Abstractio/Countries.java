@@ -8,7 +8,7 @@ package day50_Abstractio;
 		protected String flag;
 		public int populaion;
 		public String religion;
-		
+		public static void economy1() {}
 		
 		abstract public void economy();
 		
