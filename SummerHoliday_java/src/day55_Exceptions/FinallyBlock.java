@@ -6,17 +6,17 @@ public class FinallyBlock {
 		 * finally ALWAYS gets executed regardless of exception. but it is only executed if exception has handled
 		 */
 		
-		try {
-			int a = 9/0;			
-			System.out.println("try block");
-		}
-		catch(NullPointerException e) {
-			System.out.println("catch block");
-		}
-		finally {
-			System.out.println("finally block");
-		}
-		
+//		try {
+//			int a = 9/0;			
+//			System.out.println("try block");
+//		}
+//		catch(NullPointerException e) {
+//			System.out.println("catch block");
+//		}
+//		finally {
+//			System.out.println("finally block");
+//		}
+//		
 		
 		try {
 			Thread.sleep(5000);

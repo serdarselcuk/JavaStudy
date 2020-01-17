@@ -1,5 +1,6 @@
 package javaCertificationQa;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
@@ -12,12 +13,16 @@ public class OCAExam_04 {
 
 public static void main(String[] args) {
 
+	qa3 q=new qa3();
 	
-	ArrayList<Integer>arr=new ArrayList<Integer>();
-	arr.add(1);
-	arr.add(null);
-	arr.add(3);
-	System.out.println((arr));
+	try {
+		q.printFileContent();
+	} catch (Exception e) {
+		System.out.println("1");
+	}catch (IOException e) {
+		System.out.println("2");
+	}
+	
 	
 }
 
@@ -28,6 +33,7 @@ public static void main(String[] args) {
 3- Arrays doesn't turns null while printing. it throws exception, but not in ArrayList
 4- it is possible to import a static  method , also;
 		import static package.class.method;
-5- you can't use access modifier in methods, only final has been permitted
-6- 
+5- you can't use access modifiers in methods, only final has been permitted
+6- you can add and remove "null" to array list as a value
+7- 
 */
